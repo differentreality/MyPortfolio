@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'bootstrap',
     'fontawesome',
     'bootstrapform',
+    'MyPortfolio'
 ]
 
 MIDDLEWARE = [
